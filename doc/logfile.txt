@@ -1,0 +1,44 @@
+Class documentation
+<---- javadoc command: ---->
+B:\Program Files (x86)\Greenfoot\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-protected
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+B:\Program Files (x86)\Greenfoot\lib\extensions\greenfoot.jar;B:\Program Files (x86)\Greenfoot\lib\bluejcore.jar;B:\Program Files (x86)\Greenfoot\lib\bluejeditor.jar;B:\Program Files (x86)\Greenfoot\lib\bluejext.jar;B:\Program Files (x86)\Greenfoot\lib\AppleJavaExtensions.jar;B:\Program Files (x86)\Greenfoot\lib\junit-4.8.2.jar;B:\Program Files (x86)\Greenfoot\lib\bluej.jar;B:\Program Files (x86)\Greenfoot\lib\commons-httpclient-3.1.jar;B:\Program Files (x86)\Greenfoot\lib\commons-logging-api-1.1.2.jar;B:\Program Files (x86)\Greenfoot\lib\commons-codec-1.3.jar;B:\Program Files (x86)\Greenfoot\lib\jl1.0.1.jar;B:\Program Files (x86)\Greenfoot\lib\opencsv-2.3.jar;B:\Users\Gabriel\Google Drive\UEFS\Segundo Semestre\Algoritmos e Programação 2\Jogo\Glob
+-d
+B:\Users\Gabriel\Google Drive\UEFS\Segundo Semestre\Algoritmos e Programação 2\Jogo\Glob\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+B:\Program Files (x86)\Greenfoot\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+B:\Users\Gabriel\Google Drive\UEFS\Segundo Semestre\Algoritmos e Programação 2\Jogo\Glob\MyWorld.java
+<---- end of javadoc command ---->
+Loading source file B:\Users\Gabriel\Google Drive\UEFS\Segundo Semestre\Algoritmos e Programação 2\Jogo\Glob\MyWorld.java...
+B:\Users\Gabriel\Google Drive\UEFS\Segundo Semestre\Algoritmos e Programação 2\Jogo\Glob\MyWorld.java:15: error: illegal escape character
+    GreenfootSound win = new GreenfootSound("B:\Users\Gabriel\Glob\sounds\ganhar.wav");
+                                                ^
+B:\Users\Gabriel\Google Drive\UEFS\Segundo Semestre\Algoritmos e Programação 2\Jogo\Glob\MyWorld.java:15: error: illegal escape character
+    GreenfootSound win = new GreenfootSound("B:\Users\Gabriel\Glob\sounds\ganhar.wav");
+                                                      ^
+B:\Users\Gabriel\Google Drive\UEFS\Segundo Semestre\Algoritmos e Programação 2\Jogo\Glob\MyWorld.java:15: error: illegal escape character
+    GreenfootSound win = new GreenfootSound("B:\Users\Gabriel\Glob\sounds\ganhar.wav");
+                                                              ^
+B:\Users\Gabriel\Google Drive\UEFS\Segundo Semestre\Algoritmos e Programação 2\Jogo\Glob\MyWorld.java:15: error: illegal escape character
+    GreenfootSound win = new GreenfootSound("B:\Users\Gabriel\Glob\sounds\ganhar.wav");
+                                                                   ^
+B:\Users\Gabriel\Google Drive\UEFS\Segundo Semestre\Algoritmos e Programação 2\Jogo\Glob\MyWorld.java:15: error: illegal escape character
+    GreenfootSound win = new GreenfootSound("B:\Users\Gabriel\Glob\sounds\ganhar.wav");
+                                                                          ^
+5 errors
